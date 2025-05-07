@@ -26,7 +26,8 @@ A lightweight bash cli tool that shows server performance status in real-time, s
 ## 📦 Usage
 
  ---
- 
+ ```
  chmod +x server-stats.sh
  
  ./server-stats.sh
+ ```
