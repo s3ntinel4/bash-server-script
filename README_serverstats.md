@@ -1,15 +1,15 @@
-#  Server Performance Bash Script
+# 🖥️ Server Performance Bash Script
 
 A lightweight bash cli tool that shows server performance status in real-time, some metrics are:
 
- - CPU usage
- - Memory usage
- - Disk usage
- - Top running processes
+ - 📊 CPU usage
+ - 🧠 Memory usage
+ - 💽 Disk usage
+ - ⚙️ Top running processes
 
 ---
 
-## Some Features
+## 🚀 Some Features
 
  - No library dependency
  - Useful for quick diagnosis
@@ -17,13 +17,13 @@ A lightweight bash cli tool that shows server performance status in real-time, s
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
  - Bash
 
 ---
 
-## Usage
+## 📦 Usage
 
  ---bash
  ./server-stats.sh
