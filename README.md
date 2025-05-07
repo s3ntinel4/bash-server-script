@@ -20,7 +20,7 @@ A lightweight bash cli tool that shows server performance status in real-time, s
 ## 🛠️ Technologies
 
  - Bash
-
+ - Native Linux tools
 ---
 
 ## 📦 Usage
