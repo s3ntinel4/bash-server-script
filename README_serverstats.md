@@ -26,4 +26,4 @@ A lightweight bash cli tool that shows server performance status in real-time, s
 ## Usage
 
  ---bash
- ./server-performance.sh
+ ./server-stats.sh
